@@ -1,1 +1,5 @@
-
+{
+  "enabled": false,
+  "message": "🚧 Bot sedang dalam mode maintenance sementara. Mohon tunggu beberapa saat lagi.",
+  "bypass_ids": [8176344193]
+}
